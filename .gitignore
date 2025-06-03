@@ -1,18 +1,18 @@
-# Ігнорувати файли даних
+#
 *.csv
 *.xlsx
 
-# Ігнорувати тимчасові файли Python
+# Python
 __pycache__/
 *.pyc
 
-# Ігнорувати файли IDE
+#IDE
 .idea/
 .vscode/
 
-# Ігнорувати системні файли
+#
 .DS_Store
 Thumbs.db
 
-# Виняток для README.md
+#README.md
 !README.md
